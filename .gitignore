@@ -1,0 +1,9 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+
+# Ignore data files (optional, but good for cleanliness)
+data/*.csv
+
+# Ignore VS Code settings (optional)
+.vscode/
